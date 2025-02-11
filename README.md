@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hello, I'm LgTechh!  
+💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🏋️‍♂️ Ex-STAPS  
 
-<!--
-**LgTechh/LgTechh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionné par le développement web et la cybersécurité, je suis actuellement en formation **Développeur Web & Web Mobile** à l'AFCI.  
 
-Here are some ideas to get you started:
+📚 J'apprends actuellement :  
+- 🔹 JavaScript, React, Node.js  
+- 🔹 PHP, Symfony  
+- 🔹 Sécurité web & pentesting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Objectifs  
+- 💼 **Trouver un stage** en développement web entre avril et juillet 2025  
+- 🛡️ **Approfondir mes compétences en cybersécurité** (Pentesting, Sécurité Web)  
+- 🎓 **Poursuivre vers une formation Concepteur Développeur d’Applications**  
+- 🚀 **Développer mes propres projets éducatifs** en collaboration avec des professeurs pour faciliter l’apprentissage 
+
+### 📫 Me contacter  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/valentin-vanhelle-408927289/)  
+- 📧 Email : valentinvanhelle@hotmail.fr
