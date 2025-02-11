@@ -4,7 +4,7 @@
 🚀 Passionné par le développement web et la cybersécurité, je suis actuellement en formation **Développeur Web & Web Mobile** à l'AFCI.  
 
 📚 J'apprends actuellement :  
-- 🔹 JavaScript, React, Node.js  
+- 🔹 JavaScript, React, React 
 - 🔹 PHP, Symfony  
 - 🔹 Sécurité web & pentesting  
 
