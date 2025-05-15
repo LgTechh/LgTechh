@@ -9,7 +9,7 @@
 - 🔹 Sécurité web & pentesting  
 
 ### 🎯 Objectifs  
-- 💼 **Trouver un stage** en développement web entre avril et juillet 2025  
+- 💼 **Trouver une alternance** en développement web pour la rentrée 2025 idéalement en JAVA/Angular 
 - 🛡️ **Approfondir mes compétences en cybersécurité** (Pentesting, Sécurité Web)  
 - 🎓 **Poursuivre vers une formation Concepteur Développeur d’Applications**  
 - 🚀 **Développer mes propres projets éducatifs** en collaboration avec des professeurs pour faciliter l’apprentissage 
